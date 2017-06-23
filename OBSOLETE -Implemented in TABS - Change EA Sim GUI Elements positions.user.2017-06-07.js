@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name            OBSOLETE ~Implemented in TABS > Change EA Sim GUI Elements positions
-// @description     Get back the disable unit button to old position.
+// @description     test. Get back the disable unit button to old position.
 // @author          VisiG
 // @version         0.41
 // @namespace       https://prodgame*.alliances.commandandconquer.com/*/index.aspx*
