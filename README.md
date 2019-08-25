@@ -12,7 +12,7 @@ typical CCTA player:
     Clicks twice per swap.
     
 The significance of those numbers is this:
-  3 x 280 x 2 x 6 x 5 x 12 x 2 = 1,209,600
+  3 x 280 x 2 x 6 x 5 x 12 x 2 = 1,209,600. 
 The human hand is a mechanical device. As such, 
 it is subject to wear and tear that cannot easily, or
 cheaply, be repaired once damage is done. Many people
