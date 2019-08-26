@@ -12,7 +12,7 @@ typical CCTA player:
     Clicks twice per swap.
     
 The significance of those numbers is this:
-  3 x 280 x 2 x 6 x 5 x 12 x 2 = 1,209,600. 
+  3 x 280 x 2 x 6 x 5 x 12 x 2 = 1,209,600 clicks. 
 The human hand is a mechanical device. As such, 
 it is subject to wear and tear that cannot easily, or
 cheaply, be repaired once damage is done. Many people
@@ -30,14 +30,19 @@ participate in the experience of playing CCTA. AwSim is
 also for those who play CCTA and wish to take steps now
 to avoid having hand problems later.  
 
-1,209,600 is not a small number. If you do anything that 
-number of times in your entire life, much less in just a
-3 year span, it is bound to have consequences. Let AwSim
-bear the burden that your clicking hand now suffers. Don't 
-expect to be able to sim faster, or get better results or
-make your RT last longer.  But if you find that to be true,
-let that be your reward for watching guard over the health
-of your hand. Everyone should be as forethoughtful as you.
+1,209,600 is not a small number. By one estimate that 100g
+of force is exerted with each mouse click, the cumulative 
+total is the equivilent of lifting a weight of 120 tons once. 
+Whether you click a mouse button over a million times or lift 
+a whale with one finger just one time in your life, it is bound 
+to have consequences. Let AwSim bear that burden and give your 
+clicking hand a much deserved respite.
+
+As you use AwSim, don't expect to be able to sim faster, or 
+get better results or make your RT last longer.  But if you 
+should find that to be true, consider it as your hands' 
+indirect way of thanking you for your attention to it's
+health and well being. 
 
 EA has not made a statement one way or the other about
 the use of AwSim. However, if it should be declared anything
